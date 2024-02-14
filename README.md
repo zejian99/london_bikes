@@ -12,6 +12,6 @@ The link to the dataset can be found [here](https://www.kaggle.com/datasets/hmav
     !kaggle datasets download -d hmavrodiev/london-bike-sharing-dataset
     ```
 
-2. Then I loaded the dataset into a **Pandas** dataframe, thereafter did cleaning by renaming column names to more friendly ones, then changing the integer values of certain columns to strings for easier data visualization later on in [Tableau](https://www.tableau.com/).
+2. Then I loaded the dataset into a **Pandas** dataframe, thereafter did cleaning by renaming column names to more friendly ones, then changing the integer values of certain columns to strings for easier data visualization later on in [Tableau](https://www.tableau.com/). I then exported the final output as an excel file so Tableau can read it. 
 
 3. Tableau visualization to be documented and pushed to the repository in future!
